@@ -6,9 +6,14 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/KarimGad02/LeetCode/tree/master/0001-two-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/KarimGad02/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Math
 |  |
 | ------- |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/KarimGad02/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/KarimGad02/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
