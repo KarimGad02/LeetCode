@@ -20,6 +20,7 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 | [0136-single-number](https://github.com/KarimGad02/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/KarimGad02/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/KarimGad02/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/KarimGad02/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/KarimGad02/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Math
 |  |
@@ -45,6 +46,7 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 | [0202-happy-number](https://github.com/KarimGad02/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/KarimGad02/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/KarimGad02/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/KarimGad02/LeetCode/tree/master/0219-contains-duplicate-ii) |
 ## String
 |  |
 | ------- |
@@ -193,4 +195,8 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KarimGad02/LeetCode/tree/master/0169-majority-element) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/KarimGad02/LeetCode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
