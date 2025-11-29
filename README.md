@@ -8,6 +8,7 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 | ------- |
 | [0001-two-sum](https://github.com/KarimGad02/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/KarimGad02/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/KarimGad02/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/KarimGad02/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Math
 |  |
@@ -42,4 +43,8 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/KarimGad02/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/KarimGad02/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
