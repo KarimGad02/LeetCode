@@ -11,12 +11,14 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KarimGad02/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/KarimGad02/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/KarimGad02/LeetCode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/KarimGad02/LeetCode/tree/master/0066-plus-one) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/KarimGad02/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/KarimGad02/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/KarimGad02/LeetCode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/KarimGad02/LeetCode/tree/master/0066-plus-one) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/KarimGad02/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
