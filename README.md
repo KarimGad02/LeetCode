@@ -23,6 +23,7 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 | [0219-contains-duplicate-ii](https://github.com/KarimGad02/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/KarimGad02/LeetCode/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/KarimGad02/LeetCode/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/KarimGad02/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/KarimGad02/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Math
 |  |
@@ -104,6 +105,7 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 | [0160-intersection-of-two-linked-lists](https://github.com/KarimGad02/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/KarimGad02/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/KarimGad02/LeetCode/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/KarimGad02/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## String Matching
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 | [0169-majority-element](https://github.com/KarimGad02/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/KarimGad02/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KarimGad02/LeetCode/tree/master/0242-valid-anagram) |
+| [0977-squares-of-a-sorted-array](https://github.com/KarimGad02/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Tree
 |  |
 | ------- |
