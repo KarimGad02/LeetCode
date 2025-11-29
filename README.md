@@ -22,6 +22,7 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 | [0217-contains-duplicate](https://github.com/KarimGad02/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/KarimGad02/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/KarimGad02/LeetCode/tree/master/0228-summary-ranges) |
+| [0283-move-zeroes](https://github.com/KarimGad02/LeetCode/tree/master/0283-move-zeroes) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/KarimGad02/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Math
 |  |
@@ -102,6 +103,7 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 | [0141-linked-list-cycle](https://github.com/KarimGad02/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KarimGad02/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/KarimGad02/LeetCode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/KarimGad02/LeetCode/tree/master/0283-move-zeroes) |
 ## String Matching
 |  |
 | ------- |
