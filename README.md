@@ -16,6 +16,7 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KarimGad02/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/KarimGad02/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/KarimGad02/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/KarimGad02/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/KarimGad02/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Math
 |  |
@@ -89,6 +90,7 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 | [0070-climbing-stairs](https://github.com/KarimGad02/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/KarimGad02/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/KarimGad02/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/KarimGad02/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Memoization
 |  |
 | ------- |
