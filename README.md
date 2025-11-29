@@ -49,6 +49,7 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 | [0205-isomorphic-strings](https://github.com/KarimGad02/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/KarimGad02/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/KarimGad02/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/KarimGad02/LeetCode/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 | [0168-excel-sheet-column-title](https://github.com/KarimGad02/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/KarimGad02/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/KarimGad02/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/KarimGad02/LeetCode/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 | [0088-merge-sorted-array](https://github.com/KarimGad02/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/KarimGad02/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/KarimGad02/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/KarimGad02/LeetCode/tree/master/0242-valid-anagram) |
 ## Tree
 |  |
 | ------- |
