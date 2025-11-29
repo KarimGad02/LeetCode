@@ -21,6 +21,7 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 | [0066-plus-one](https://github.com/KarimGad02/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/KarimGad02/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/KarimGad02/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/KarimGad02/LeetCode/tree/master/0070-climbing-stairs) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/KarimGad02/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
@@ -75,4 +76,12 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/KarimGad02/LeetCode/tree/master/0067-add-binary) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/KarimGad02/LeetCode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/KarimGad02/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
