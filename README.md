@@ -19,6 +19,7 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 | [0009-palindrome-number](https://github.com/KarimGad02/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/KarimGad02/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/KarimGad02/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/KarimGad02/LeetCode/tree/master/0067-add-binary) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/KarimGad02/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
@@ -33,6 +34,7 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 | [0020-valid-parentheses](https://github.com/KarimGad02/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KarimGad02/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/KarimGad02/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/KarimGad02/LeetCode/tree/master/0067-add-binary) |
 ## Trie
 |  |
 | ------- |
@@ -63,4 +65,12 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/KarimGad02/LeetCode/tree/master/0035-search-insert-position) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/KarimGad02/LeetCode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/KarimGad02/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
