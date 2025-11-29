@@ -12,6 +12,7 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 | [0027-remove-element](https://github.com/KarimGad02/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/KarimGad02/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/KarimGad02/LeetCode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/KarimGad02/LeetCode/tree/master/0088-merge-sorted-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/KarimGad02/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Math
 |  |
@@ -60,6 +61,7 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KarimGad02/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/KarimGad02/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KarimGad02/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/KarimGad02/LeetCode/tree/master/0088-merge-sorted-array) |
 ## String Matching
 |  |
 | ------- |
@@ -85,4 +87,8 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/KarimGad02/LeetCode/tree/master/0070-climbing-stairs) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/KarimGad02/LeetCode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
