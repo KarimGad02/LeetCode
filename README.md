@@ -10,6 +10,7 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 | [0014-longest-common-prefix](https://github.com/KarimGad02/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KarimGad02/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/KarimGad02/LeetCode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/KarimGad02/LeetCode/tree/master/0035-search-insert-position) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/KarimGad02/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Math
 |  |
@@ -55,4 +56,8 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KarimGad02/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/KarimGad02/LeetCode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
