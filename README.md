@@ -20,6 +20,7 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 | [0013-roman-to-integer](https://github.com/KarimGad02/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/KarimGad02/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/KarimGad02/LeetCode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/KarimGad02/LeetCode/tree/master/0069-sqrtx) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/KarimGad02/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
@@ -65,6 +66,7 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/KarimGad02/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/KarimGad02/LeetCode/tree/master/0069-sqrtx) |
 ## Bit Manipulation
 |  |
 | ------- |
