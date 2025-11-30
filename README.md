@@ -38,6 +38,7 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 | [0171-excel-sheet-column-number](https://github.com/KarimGad02/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/KarimGad02/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/KarimGad02/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/KarimGad02/LeetCode/tree/master/0258-add-digits) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/KarimGad02/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
@@ -127,6 +128,7 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/KarimGad02/LeetCode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/KarimGad02/LeetCode/tree/master/0258-add-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -211,4 +213,8 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/KarimGad02/LeetCode/tree/master/0219-contains-duplicate-ii) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/KarimGad02/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
