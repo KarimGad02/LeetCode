@@ -25,6 +25,7 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 | [0268-missing-number](https://github.com/KarimGad02/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KarimGad02/LeetCode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/KarimGad02/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/KarimGad02/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/KarimGad02/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Math
 |  |
@@ -42,6 +43,7 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 | [0258-add-digits](https://github.com/KarimGad02/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/KarimGad02/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/KarimGad02/LeetCode/tree/master/0268-missing-number) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/KarimGad02/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/KarimGad02/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
@@ -224,4 +226,8 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/KarimGad02/LeetCode/tree/master/0258-add-digits) |
+## Prefix Sum
+|  |
+| ------- |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/KarimGad02/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 <!---LeetCode Topics End-->
