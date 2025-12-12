@@ -123,6 +123,7 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 | [0035-search-insert-position](https://github.com/KarimGad02/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/KarimGad02/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/KarimGad02/LeetCode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/KarimGad02/LeetCode/tree/master/0278-first-bad-version) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -230,4 +231,8 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 |  |
 | ------- |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/KarimGad02/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/KarimGad02/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
