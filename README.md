@@ -59,6 +59,7 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 | [0219-contains-duplicate-ii](https://github.com/KarimGad02/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/KarimGad02/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KarimGad02/LeetCode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/KarimGad02/LeetCode/tree/master/0290-word-pattern) |
 ## String
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 | [0171-excel-sheet-column-number](https://github.com/KarimGad02/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/KarimGad02/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/KarimGad02/LeetCode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/KarimGad02/LeetCode/tree/master/0290-word-pattern) |
 ## Trie
 |  |
 | ------- |
