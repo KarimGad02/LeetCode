@@ -24,6 +24,7 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 | [0228-summary-ranges](https://github.com/KarimGad02/LeetCode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/KarimGad02/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KarimGad02/LeetCode/tree/master/0283-move-zeroes) |
+| [0944-delete-columns-to-make-sorted](https://github.com/KarimGad02/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/KarimGad02/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/KarimGad02/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/KarimGad02/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -75,6 +76,7 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 | [0205-isomorphic-strings](https://github.com/KarimGad02/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/KarimGad02/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/KarimGad02/LeetCode/tree/master/0290-word-pattern) |
+| [0944-delete-columns-to-make-sorted](https://github.com/KarimGad02/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 ## Trie
 |  |
 | ------- |
