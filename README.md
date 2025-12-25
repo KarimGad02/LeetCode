@@ -45,6 +45,7 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 | [0258-add-digits](https://github.com/KarimGad02/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/KarimGad02/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/KarimGad02/LeetCode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/KarimGad02/LeetCode/tree/master/0292-nim-game) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/KarimGad02/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/KarimGad02/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
@@ -245,4 +246,12 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 |  |
 | ------- |
 | [3074-apple-redistribution-into-boxes](https://github.com/KarimGad02/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/KarimGad02/LeetCode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/KarimGad02/LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
