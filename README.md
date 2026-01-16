@@ -24,6 +24,7 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 | [0228-summary-ranges](https://github.com/KarimGad02/LeetCode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/KarimGad02/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KarimGad02/LeetCode/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/KarimGad02/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0944-delete-columns-to-make-sorted](https://github.com/KarimGad02/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/KarimGad02/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/KarimGad02/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -237,6 +238,7 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/KarimGad02/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/KarimGad02/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Interactive
 |  |
@@ -254,4 +256,8 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/KarimGad02/LeetCode/tree/master/0292-nim-game) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/KarimGad02/LeetCode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
