@@ -47,6 +47,7 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 | [0263-ugly-number](https://github.com/KarimGad02/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/KarimGad02/LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/KarimGad02/LeetCode/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/KarimGad02/LeetCode/tree/master/0326-power-of-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/KarimGad02/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/KarimGad02/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
@@ -107,6 +108,7 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 | [0203-remove-linked-list-elements](https://github.com/KarimGad02/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/KarimGad02/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/KarimGad02/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/KarimGad02/LeetCode/tree/master/0326-power-of-three) |
 ## Two Pointers
 |  |
 | ------- |
