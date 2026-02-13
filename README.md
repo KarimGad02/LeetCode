@@ -82,6 +82,7 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 | [0242-valid-anagram](https://github.com/KarimGad02/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/KarimGad02/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/KarimGad02/LeetCode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/KarimGad02/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/KarimGad02/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 ## Trie
 |  |
@@ -125,6 +126,7 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 | [0202-happy-number](https://github.com/KarimGad02/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/KarimGad02/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/KarimGad02/LeetCode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/KarimGad02/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/KarimGad02/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## String Matching
 |  |
