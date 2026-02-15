@@ -25,6 +25,7 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 | [0268-missing-number](https://github.com/KarimGad02/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KarimGad02/LeetCode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/KarimGad02/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0349-intersection-of-two-arrays](https://github.com/KarimGad02/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0944-delete-columns-to-make-sorted](https://github.com/KarimGad02/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/KarimGad02/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/KarimGad02/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -66,6 +67,7 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 | [0242-valid-anagram](https://github.com/KarimGad02/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KarimGad02/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/KarimGad02/LeetCode/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/KarimGad02/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -127,6 +129,7 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 | [0283-move-zeroes](https://github.com/KarimGad02/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/KarimGad02/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/KarimGad02/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/KarimGad02/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/KarimGad02/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## String Matching
 |  |
@@ -139,6 +142,7 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 | [0069-sqrtx](https://github.com/KarimGad02/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/KarimGad02/LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/KarimGad02/LeetCode/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/KarimGad02/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -175,6 +179,7 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 | [0217-contains-duplicate](https://github.com/KarimGad02/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KarimGad02/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KarimGad02/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/KarimGad02/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/KarimGad02/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/KarimGad02/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Tree
