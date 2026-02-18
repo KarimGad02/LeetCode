@@ -140,6 +140,7 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 | ------- |
 | [0035-search-insert-position](https://github.com/KarimGad02/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/KarimGad02/LeetCode/tree/master/0069-sqrtx) |
+| [0222-count-complete-tree-nodes](https://github.com/KarimGad02/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/KarimGad02/LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/KarimGad02/LeetCode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/KarimGad02/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -150,6 +151,7 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 | [0136-single-number](https://github.com/KarimGad02/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/KarimGad02/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/KarimGad02/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/KarimGad02/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/KarimGad02/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/KarimGad02/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/KarimGad02/LeetCode/tree/master/0338-counting-bits) |
@@ -195,6 +197,7 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 | [0112-path-sum](https://github.com/KarimGad02/LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KarimGad02/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KarimGad02/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/KarimGad02/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -220,6 +223,7 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 | [0112-path-sum](https://github.com/KarimGad02/LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KarimGad02/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KarimGad02/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/KarimGad02/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
