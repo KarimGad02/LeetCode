@@ -28,6 +28,7 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 | [0349-intersection-of-two-arrays](https://github.com/KarimGad02/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KarimGad02/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KarimGad02/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0455-assign-cookies](https://github.com/KarimGad02/LeetCode/tree/master/0455-assign-cookies) |
 | [0944-delete-columns-to-make-sorted](https://github.com/KarimGad02/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/KarimGad02/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/KarimGad02/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -136,6 +137,7 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 | [0345-reverse-vowels-of-a-string](https://github.com/KarimGad02/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/KarimGad02/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KarimGad02/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/KarimGad02/LeetCode/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/KarimGad02/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## String Matching
 |  |
@@ -190,6 +192,7 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 | [0268-missing-number](https://github.com/KarimGad02/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KarimGad02/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KarimGad02/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/KarimGad02/LeetCode/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/KarimGad02/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/KarimGad02/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Tree
@@ -275,6 +278,7 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/KarimGad02/LeetCode/tree/master/0455-assign-cookies) |
 | [3074-apple-redistribution-into-boxes](https://github.com/KarimGad02/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Brainteaser
 |  |
