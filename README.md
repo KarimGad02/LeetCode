@@ -53,6 +53,7 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 | [0292-nim-game](https://github.com/KarimGad02/LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/KarimGad02/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/KarimGad02/LeetCode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/KarimGad02/LeetCode/tree/master/0367-valid-perfect-square) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/KarimGad02/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/KarimGad02/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
@@ -153,6 +154,7 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 | [0278-first-bad-version](https://github.com/KarimGad02/LeetCode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/KarimGad02/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KarimGad02/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/KarimGad02/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Bit Manipulation
 |  |
 | ------- |
