@@ -91,6 +91,7 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 | [0290-word-pattern](https://github.com/KarimGad02/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/KarimGad02/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/KarimGad02/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/KarimGad02/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0944-delete-columns-to-make-sorted](https://github.com/KarimGad02/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 ## Trie
 |  |
@@ -144,6 +145,7 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KarimGad02/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/KarimGad02/LeetCode/tree/master/0459-repeated-substring-pattern) |
 ## Binary Search
 |  |
 | ------- |
