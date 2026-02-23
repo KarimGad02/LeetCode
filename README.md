@@ -73,6 +73,7 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 | [0290-word-pattern](https://github.com/KarimGad02/LeetCode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/KarimGad02/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KarimGad02/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/KarimGad02/LeetCode/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KarimGad02/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## String
 |  |
@@ -91,6 +92,7 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 | [0290-word-pattern](https://github.com/KarimGad02/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/KarimGad02/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/KarimGad02/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/KarimGad02/LeetCode/tree/master/0383-ransom-note) |
 | [0459-repeated-substring-pattern](https://github.com/KarimGad02/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0944-delete-columns-to-make-sorted](https://github.com/KarimGad02/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 ## Trie
@@ -263,6 +265,7 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KarimGad02/LeetCode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/KarimGad02/LeetCode/tree/master/0383-ransom-note) |
 ## Sliding Window
 |  |
 | ------- |
