@@ -172,6 +172,7 @@ A Repo to upload my solved Leet Code problems. Required by ITI (Information Tech
 | [0268-missing-number](https://github.com/KarimGad02/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/KarimGad02/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/KarimGad02/LeetCode/tree/master/0342-power-of-four) |
+| [0461-hamming-distance](https://github.com/KarimGad02/LeetCode/tree/master/0461-hamming-distance) |
 ## Simulation
 |  |
 | ------- |
